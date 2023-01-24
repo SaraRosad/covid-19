@@ -11,6 +11,7 @@ function App() {
         </p>
         <a className="App-link" href="https://reactjs.org" target="_blank" rel="noopener noreferrer">
           https://rapidapi.com/axisbits-axisbits-default/api/covid-19-statistics/
+          https://docs.mapbox.com/playground/tilequery/
         </a>
       </header>
     </div>
